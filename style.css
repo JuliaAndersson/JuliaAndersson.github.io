@@ -428,4 +428,15 @@ footer h1{
 	color: #999;
 }
 
+/* ===== uppgift page ==================================================*/
+.uppgift h1{
+    text-align: center;
+}
+.uppgift p{
+    margin-bottom: 25px;
+}
+
+
+
+
 
